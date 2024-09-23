@@ -1,0 +1,114 @@
+.logo{
+    width: 50px;
+    padding: 10px;
+}
+
+.navbar{
+    color: white;
+    background-color: #A50044;
+}
+
+body{
+    background-color: #0F39B8;
+}
+
+.contenedor{
+    align-content: center;
+}
+
+.logo-index{
+    justify-content: flex-start;
+    width: 50px;
+}
+
+.container{
+    margin-top: 3%;
+}
+
+.img{
+    width: 300px;
+    border-radius: 7%;
+}
+
+.titulos{
+    color: #edbb00;
+    margin: 20px;
+    text-align: center;
+}
+
+.tarjeta{
+    color:#A50044;
+    background-color: #edbb00;
+    border-radius: 5%;
+    margin: 10px;
+}
+
+.card-body{
+    color: black;
+    text-align: center;
+    border-radius: 5%;
+}
+
+.card-img-top{
+    border-bottom: 4px solid black;
+    border-radius: 2%;
+}
+
+.card{
+    margin: 10px;
+    width: 17rem;
+    border: 5px solid #a50044;
+}
+
+.lista{
+    list-style:none;
+    padding-right: 20px;
+}
+
+.icono{
+    width: 25px;
+    padding: 2%;
+    justify-content: center;
+}
+
+.row{
+    margin: auto;
+    justify-content: center;
+}
+
+.carousel{
+    width: auto;
+    margin: 20px;
+    color: black;
+}
+
+
+.carousel-caption{
+    background-color: #a50044;
+    padding: 1rem;
+    opacity: 0.97;
+    border-radius: 10px;
+  }
+
+
+.carousel-caption h5 {
+    font-size: 2rem; 
+    color: #0F39B8; 
+    font-weight: bold;
+}
+
+.carousel-caption p {
+    font-size: 1.5rem;
+    color: #edbb00;
+    font-weight: bold;
+}
+
+.contacto {
+    margin: 10px;
+    max-width: 900px;
+    width: 100%;
+    justify-content: center;
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+  }
